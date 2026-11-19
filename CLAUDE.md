@@ -18,3 +18,10 @@ learning full-stack development (TypeScript, React, Next.js, NestJS, PostgreSQL)
 - Commits follow Conventional Commits (feat:, fix:, docs:, chore:, refactor:).
 - Branch names: type/short-description (e.g. docs/progress-section).
 - Never commit directly to main: branch → PR → merge.
+
+## Learning plan
+
+- The full plan is in @docs/learning-plan.md. Read it at the start of each session.
+- Check "Current status" to know which phase and week I'm on, and follow that program.
+- When I finish a step, remind me to tick its box and update "Current status" myself (in a branch + PR).
+- My notes for each phase are in the matching `phase-X` folder.
